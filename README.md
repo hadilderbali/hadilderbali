@@ -2,7 +2,6 @@
 <p align="center">
   <img src="Hi, (1).png" alt="Hi, I'm Hadil Derbali" width="1000" />
 </p>
-
 ---
 
 <p align="center">
